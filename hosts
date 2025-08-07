@@ -1,0 +1,8 @@
+[testBox]
+192.168.122.70
+
+
+[testBox:vars]
+ansible_user=f
+ansible_password=f
+
