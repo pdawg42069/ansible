@@ -3,6 +3,6 @@
 
 
 [testBox:vars]
-ansible_user=f
+ansible_become_user=f
 ansible_password=f
 
